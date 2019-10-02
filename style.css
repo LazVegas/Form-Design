@@ -31,7 +31,7 @@ input {
     border: 2px solid rgb(234,234,234);
     font-size: 14px;
 }
-
+ 
 input::placeholder {
     font-style: italic;
     color: rgb(67,108,136);
